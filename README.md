@@ -41,7 +41,7 @@
 # Tabla de Contenido
 
 - NodeJS [Descargar](https://nodejs.org/en/download)
-- XCode o Android Studio
+- Android Studio [Descargar](https://developer.android.com/studio?hl=es-419)
 - Visual Studio Code [Descargar](https://code.visualstudio.com/download)
 - Postgres [Descargar](https://www.postgresql.org/download/)
 - DBeaver [Descargar](https://dbeaver.io/)
